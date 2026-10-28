@@ -1,0 +1,7 @@
+rag/models/
+rag/*.db
+rag/*.db-*
+rag/*.tmp*
+__pycache__/
+*.pyc
+.venv/

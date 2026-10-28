@@ -1,0 +1,6 @@
+# Only the vector layer of rag/ needs these; scripts/viet_scan.py and keyword search use the standard library.
+numpy>=1.26
+onnxruntime>=1.17
+tokenizers>=0.15
+huggingface_hub>=0.20
+sqlite-vec>=0.1.6
